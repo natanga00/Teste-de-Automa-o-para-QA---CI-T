@@ -1,8 +1,11 @@
 # Teste de Automação para QA - CI&T
 
-(descrição)
+### Objetivo:
+Este trabalho tem como objetivo de aprimorar os nossos conhecimentos sobre Testes de Automação com o framework Selenium.
+
 
 ### Os testes realizados estão na pasta "test"!
+
 
 ## Instalação
 É necessario instalar o Selenium e o arquivo ChromeDrive compativel com o seu navegador
