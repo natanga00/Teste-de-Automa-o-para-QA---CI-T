@@ -33,6 +33,6 @@ File file = new File("Caminho-Para-o-Arquivo\\chromedriver.exe"); //Coloque o ca
   <tr>
     <td align="center"><a href="https://www.linkedin.com/in/matheus-henrique-566904193/"><img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/64544495?v=4" width="100px;" alt=""/><br /><b>Matheus Henrique<br>LinkedIn </b></a><br /><a href="https://github.com/Matts-R" title="Git-Hub"><sub>Git-Hub</sub></a></td>
     <td align="center"><a href="http://www.linkedin.com/in/leonardohas"><img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/83249141?v=4" width="100px;" alt=""/><br /><b>Leonardo Henrique<br>LinkedIn </b></a><br /><a href="https://github.com/Leonardohas" title="Git-Hub"><sub>Git-Hub</sub></a></td>
-    <td align="center"><a href="https://www.linkedin.com/in/amanda-evangelista-batista-353ab4199/"><img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/79882234?v=4" width="100px;" alt=""/><br /><b>Pedro Coutinho<br>LinkedIn </b></a><br /><a href="https://github.com/AmandaBatista015" title="Git-Hub"><sub>Git-Hub</sub></a></td>
+    <td align="center"><a href="https://www.linkedin.com/in/amanda-evangelista-batista-353ab4199/"><img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/79882234?v=4" width="100px;" alt=""/><br/><b>Amanda Batista<br>LinkedIn </b></a><br /><a href="https://github.com/AmandaBatista015" title="Git-Hub"><sub>Git-Hub</sub></a></td>
   </tr>
 </table>
